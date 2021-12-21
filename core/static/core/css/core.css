@@ -1,0 +1,30 @@
+.st-font {
+    font-family: 'Satisfy', cursive;
+}
+
+a.nav-link {
+    color: silver;
+}
+
+a.nav-link:hover {
+    color: black;
+    background-color: coral;
+}
+
+a.nav-link.active {
+    color: blue;
+    background-color: yellow;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+.i-color {
+    color: blueviolet;
+}
